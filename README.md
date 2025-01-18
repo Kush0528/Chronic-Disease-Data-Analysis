@@ -6,8 +6,7 @@
 ## Data source & Description
 Data Source - CDC’s Centers for Disease Control and Prevention portal (https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators/hksd-2xuw/about_data)  
 Data type - Structured, CSV file  
-Key Statistics -
-309,216 Rows & 34 Columns
+Key Statistics - 309,216 Rows & 34 Columns
 
 ## Preprocessing Steps
 ### 1) Data Cleaning:
@@ -17,13 +16,11 @@ To concentrate on state-specific trends, national-level entries were eliminated.
 
 ## Analysis
 ### 1) Trend Analysis - 
-Assessed patterns in the mortality rates from diabetes
-and asthma. Matplotlib-created line plots that showed patterns over time were used to visualize this.
+Assessed patterns in the mortality rates from diabetes and asthma. Matplotlib-created line plots that showed patterns over time were used to visualize this.
 ### 2) Comparative Analysis -
 The prevalence of cardiovascular disease by gender was compared by state using bar plots.
 ### 3) Geospatial Analysis -
-Mapped alcohol-related mortality rates across
-the United States.
+Mapped alcohol-related mortality rates across the United States.
 
 ## Libraries Used
 1) Pandas - For data loading, cleaning, aggregation, and manipulation.
@@ -36,5 +33,4 @@ the United States.
 Dash was used to create a dynamic dashboard with interactive visuals that let users investigate "Binge Drinking Prevalence Among Adults." The interface included a drop-down menu for choosing states, and line charts that updated dynamically to show patterns over time. The project's objective of giving stakeholders the ability to interactively study data was perfectly embodied by the Dash application.
 
 ## Conclusion
-The Analysis recommends focusing on gender-specific health policies and implementing targeted public health initiatives in high-mortality areas. Reaching out to high-risk individuals
-and closely monitoring changes in chronic conditions can help prevent future health disasters.
+The Analysis recommends focusing on gender-specific health policies and implementing targeted public health initiatives in high-mortality areas. Reaching out to high-risk individuals and closely monitoring changes in chronic conditions can help prevent future health disasters.
