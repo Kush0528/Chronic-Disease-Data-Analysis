@@ -17,7 +17,7 @@ To concentrate on state-specific trends, national-level entries were eliminated.
 ## Analysis
 ### 1) Trend Analysis - 
 ![Image](https://github.com/user-attachments/assets/fe99cfe9-a868-440a-862a-a5ddc43ba690)
-![Image](https://github.com/user-attachments/assets/8140a798-3467-4574-b0c8-cd1cbe52afb2)
+![Image](https://github.com/user-attachments/assets/8140a798-3467-4574-b0c8-cd1cbe52afb2)        
 Assessed patterns in the mortality rates from diabetes and asthma. Matplotlib-created line plots that showed patterns over time were used to visualize this.
 ### 2) Comparative Analysis -
 ![Image](https://github.com/user-attachments/assets/5f4b644e-71d7-4809-b1ab-760bceb8f891)
