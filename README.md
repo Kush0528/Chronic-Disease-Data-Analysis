@@ -16,10 +16,14 @@ To concentrate on state-specific trends, national-level entries were eliminated.
 
 ## Analysis
 ### 1) Trend Analysis - 
+![Image](https://github.com/user-attachments/assets/fe99cfe9-a868-440a-862a-a5ddc43ba690)
+![Image](https://github.com/user-attachments/assets/8140a798-3467-4574-b0c8-cd1cbe52afb2)
 Assessed patterns in the mortality rates from diabetes and asthma. Matplotlib-created line plots that showed patterns over time were used to visualize this.
 ### 2) Comparative Analysis -
+![Image](https://github.com/user-attachments/assets/5f4b644e-71d7-4809-b1ab-760bceb8f891)
 The prevalence of cardiovascular disease by gender was compared by state using bar plots.
 ### 3) Geospatial Analysis -
+![Image](https://github.com/user-attachments/assets/6c743f2d-32a2-4762-9b00-04bf753bfa82)
 Mapped alcohol-related mortality rates across the United States.
 
 ## Libraries Used
@@ -30,6 +34,7 @@ Mapped alcohol-related mortality rates across the United States.
 5) Ipython.display - To render rich HTML content, such as styled Data frames tables. 
 
 ## Interactive Dashboard
+![Image](https://github.com/user-attachments/assets/25a4ff4b-4063-4ec6-b2fe-e06ef735b422)
 Dash was used to create a dynamic dashboard with interactive visuals that let users investigate "Binge Drinking Prevalence Among Adults." The interface included a drop-down menu for choosing states, and line charts that updated dynamically to show patterns over time. The project's objective of giving stakeholders the ability to interactively study data was perfectly embodied by the Dash application.
 
 ## Conclusion
